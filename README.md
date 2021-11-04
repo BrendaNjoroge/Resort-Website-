@@ -3,15 +3,11 @@
 #### By **Brenda Njoroge**
 ## Description
 This application shares information about The resort highlighting information to do with accomodation and pricing as well as the different options available.The activities one can do during their stay at the resort, how the resort can be contacted as well as how an interested party can make travel arrangements to the resort.
-## Setup/Installation Requirements
-* Install by forking from repository and cloning the code.
-* Upon successful completion of the cloning run the command $ install apt the-resort
-* Once the download is complete select Y to intall
-* Open the application from your homepage and enter username and password of your choice.
-* Enjoy!
+## Project Setup Instructions
+* To view website and explore available packages click following link - https://brendanjoroge.github.io/Resort-Website-/
 
 ## Known Bugs
-Loading time is slow and can time out.
+No known bugs at the moment, should update if this changes.
 ## Technologies Used
 Used HTML and CSS to style and design as well as interlink the various pages on the website.
 ## Support and contact details
